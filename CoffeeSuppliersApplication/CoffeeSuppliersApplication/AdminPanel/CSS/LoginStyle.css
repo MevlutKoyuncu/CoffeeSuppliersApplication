@@ -1,0 +1,43 @@
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Calibri;
+    background-color: #393431;
+    background-image: url(../PageImages/downloadedImage.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+}
+
+.mainpanel {
+    width: 400px;
+    min-height: 400px;
+    margin: 300px auto;
+    border-radius: 15px;
+    color: white;
+    background-color: #393431;
+}
+
+    .mainpanel h1 {
+        text-align: center;
+        padding: 20px;
+    }
+
+    .mainpanel label {
+        padding: 18px;
+        font-weight:900
+    }
+
+.mailKutu {
+    border-radius: 3px;
+    font-size: 12pt;
+    margin: 15px;
+    width: 80%;
+    border-radius: 5px;
+    background-color: bisque;
+    border: none;
+    padding:5px;
+}
