@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\coffeesuppliersapplication\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|c:\\users\\mevlut\\documents\\github\\coffeesuppliersapplication\\coffeesuppliersapplication\\coffeesuppliersapplication\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|solutionrelative:coffeesuppliersapplication\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\coffeesuppliersapplication\\adminpanel\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|c:\\users\\mevlut\\documents\\github\\coffeesuppliersapplication\\coffeesuppliersapplication\\coffeesuppliersapplication\\adminpanel\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|solutionrelative:coffeesuppliersapplication\\adminpanel\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoginStyle.css",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
               "RelativeDocumentMoniker": "CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
+              "ToolTip": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
               "RelativeToolTip": "CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -43,9 +43,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
               "RelativeDocumentMoniker": "CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
+              "ToolTip": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
               "RelativeToolTip": "CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",

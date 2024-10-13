@@ -1,38 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\coffeesuppliersapplication\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|c:\\users\\mevlut\\documents\\github\\coffeesuppliersapplication\\coffeesuppliersapplication\\coffeesuppliersapplication\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|solutionrelative:coffeesuppliersapplication\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\coffeesuppliersapplication\\adminpanel\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|c:\\users\\mevlut\\documents\\github\\coffeesuppliersapplication\\coffeesuppliersapplication\\coffeesuppliersapplication\\adminpanel\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{09DBDEE9-C162-4AF7-B1F7-07268B362531}|CoffeeSuppliersApplication\\CoffeeSuppliersApplication.csproj|solutionrelative:coffeesuppliersapplication\\adminpanel\\css\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\dataaccesslayer\\alicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\alicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\dataaccesslayer\\kahveler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\kahveler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\dataaccesslayer\\saticilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\saticilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mevlut\\source\\repos\\coffeesuppliersapplication\\dataaccesslayer\\ureticiulkeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C224A84A-D219-4A7F-BAD1-76311414233B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\ureticiulkeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,106 +22,34 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginStyle.css",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
+              "RelativeDocumentMoniker": "CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
+              "ToolTip": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
+              "RelativeToolTip": "CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-06T19:41:58.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
               "RelativeDocumentMoniker": "CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
+              "ToolTip": "C:\\Users\\Mevlut\\Documents\\GitHub\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
               "RelativeToolTip": "CoffeeSuppliersApplication\\AdminPanel\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-10-06T19:42:14.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginStyle.css",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
-              "RelativeDocumentMoniker": "CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
-              "RelativeToolTip": "CoffeeSuppliersApplication\\AdminPanel\\CSS\\LoginStyle.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-06T19:41:58.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Saticilar.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\Saticilar.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Saticilar.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\Saticilar.cs",
-              "RelativeToolTip": "DataAccessLayer\\Saticilar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:36:58.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Kahveler.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\Kahveler.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Kahveler.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\Kahveler.cs",
-              "RelativeToolTip": "DataAccessLayer\\Kahveler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:37:46.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Alicilar.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\Alicilar.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Alicilar.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\Alicilar.cs",
-              "RelativeToolTip": "DataAccessLayer\\Alicilar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:38:07.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataModel.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\DataModel.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\DataModel.cs",
-              "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA6wEQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:38:49.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConnectionStrings.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\ConnectionStrings.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ConnectionStrings.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\ConnectionStrings.cs",
-              "RelativeToolTip": "DataAccessLayer\\ConnectionStrings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:40:26.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UreticiUlkeler.cs",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\UreticiUlkeler.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UreticiUlkeler.cs",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\CoffeeSuppliersApplication\\DataAccessLayer\\UreticiUlkeler.cs",
-              "RelativeToolTip": "DataAccessLayer\\UreticiUlkeler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:38:34.377Z",
               "EditorCaption": ""
             }
           ]
